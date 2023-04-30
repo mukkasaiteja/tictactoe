@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+table td {
+  font-size: 30px;
+  border: 1px solid grey;
+  width: 100px;
+  height: 100px;
+  background-color: blanchedalmond;
+}
+button {
+  padding: 20px;
+  background-color: blanchedalmond;
+}
